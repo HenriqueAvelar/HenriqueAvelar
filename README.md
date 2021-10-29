@@ -16,3 +16,9 @@
   <a href="https://instagram.com/_henrique_avelar__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriqueavelar20pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-avelar-8a0842220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
+  ! [Animação de cobra] (https://github.com/HenriqueAvelar/HenriqueAvelar/blob/github-contribution-grid-snake.svg)
+  
+  
+  </div>
